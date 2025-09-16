@@ -1,5 +1,3 @@
-# Assignment Completed: 17 April 2025 (Local Storage)
-
 # Python Programming Projects Collection
 
 This repository contains a variety of beginner-friendly Python projects and homework assignments, organized by topic and difficulty. The projects are designed to help students practice core programming concepts such as variables, expressions, conditionals, loops, lists, dictionaries, and basic game logic.
